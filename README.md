@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @safiamassaid
--👋  I'm a camputer science  student 
+- 👋 Hi, I’m @safiamassaid 
+
 - 👀 I’m interested in web devlopment and  the web design  
-- I am training to be fullstack                                    
+- I am training to be fullstack  
+-👋  I'm a camputer science  student 
 
 
 <!---
